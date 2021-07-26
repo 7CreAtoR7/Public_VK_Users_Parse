@@ -4,4 +4,4 @@ This program parses Vk public subscribers info (country) and prints it in DataFr
 
 <br />
 <br />
-![](images/vk_parse.png)
+![](vk_parse.png)
